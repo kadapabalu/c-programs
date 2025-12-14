@@ -1,0 +1,12 @@
+#include<math.h>
+#include<stdio.h>
+#define PI 3.142
+double findarea(int r){return PI*pow(r,2);}
+int main()
+{
+printf("Area is %f", findarea(5));
+return 0;
+}
+
+OUTPUT;
+Area is 78.550000
