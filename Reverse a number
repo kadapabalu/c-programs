@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+long num, reversed_num=0, remainder, original_num;
+printf("Enter an integer:");
+scanf("%d",&num);
+original_num=num;
+while(num!=0)
+{
+remainder=num%10;
+reversed_num=reversed_num*10+remainder;
+num/=10;
+}
+printf("Original number=%1d\n",original_num);
+printf("Reversed number=%1d\n",original_num);
+return 0;
+}
+
+OUTPUT:
+Enter an integer:2004
+Original number=2004
+Reversed number=2004
