@@ -19,5 +19,3 @@ printf("%d is prime",n);
 return 0;
 }
 
-OUTPUT;
-91 is not prime
