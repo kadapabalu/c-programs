@@ -8,5 +8,3 @@ printf("Area is %f", findarea(5));
 return 0;
 }
 
-OUTPUT;
-Area is 78.550000
