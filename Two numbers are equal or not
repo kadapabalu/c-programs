@@ -10,5 +10,3 @@ printf("%d is not equal to %d",x,y);
 return 0;
 }
 
-OUTPUT:
-1 is not equal to 2
