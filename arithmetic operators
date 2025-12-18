@@ -10,9 +10,3 @@ printf("Modulo Division:%d\n",a%b);
 return 0;
 }
 
-Output:
-Addition:15
-Subtraction:5
-Multiplication:50
-Division:2
-Modulo Division:0
