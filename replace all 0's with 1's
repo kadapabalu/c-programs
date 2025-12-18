@@ -17,5 +17,3 @@ printf("%d",ans);
 return 0;
 }
 
-OUTPUT:
-112311
