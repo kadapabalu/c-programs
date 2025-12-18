@@ -16,7 +16,3 @@ printf("Reversed number=%1d\n",original_num);
 return 0;
 }
 
-OUTPUT:
-Enter an integer:2004
-Original number=2004
-Reversed number=2004
