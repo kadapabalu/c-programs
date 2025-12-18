@@ -10,5 +10,4 @@ double ci=amount-principal;
 printf("compound interest is :%1f",ci);
 return 0;
 }
-OUTPUT;
-compound interest is :714.830823
+
