@@ -8,6 +8,3 @@ printf("min=%d",((a+b)-abs(a-b))/2);
 return 0;
 }
 
-OUTPUT:
-max=55
-min=23
