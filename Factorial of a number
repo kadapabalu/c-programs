@@ -20,6 +20,4 @@ printf("Factorial of %d=%11u\n",n,factorial);
 return 0;
 }
 
-OUTPUT:
-Enter a non-negative integer:5
-Factorial of 5= 120
+
