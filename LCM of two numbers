@@ -13,6 +13,3 @@ printf("The LCM of %d and %d is %d.\n",num1,num2,max);
 return 0;
 }
 
-OUTPUT:
-Enter two positive integers:12 9
-The LCM of 12 and 9 is 36.
