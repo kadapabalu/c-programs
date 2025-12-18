@@ -11,5 +11,3 @@ printf("%d",c);
 return 0;
 }
 
-OUTPUT:
-10
