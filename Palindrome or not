@@ -18,6 +18,3 @@ printf("%d is not a palindrome.",original);
 return 0;
 }
 
-OUTPUT:
-Enter an integer:12321
-12321 is a palindrome.
